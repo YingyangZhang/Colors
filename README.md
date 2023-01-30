@@ -32,7 +32,7 @@ Via a collapsible sidebar menu, users will have the option to filter random colo
 
 <br />
 
-<img width="400" alt="Screen Shot 2023-01-19 at 2 04 30 PM" src="https://user-images.githubusercontent.com/104846791/215395258-24936460-1a2a-43a1-8300-613ca4cf6ff8.png"> <img width="400" alt="Screen Shot 2023-01-19 at 2 04 47 PM" src="https://user-images.githubusercontent.com/104846791/215395260-91c3f6ca-8f66-45ae-a6c0-bc80a6d9c3f1.png">
+<img width="410" alt="Screen Shot 2023-01-19 at 2 04 30 PM" src="https://user-images.githubusercontent.com/104846791/215395258-24936460-1a2a-43a1-8300-613ca4cf6ff8.png"> <img width="410" alt="Screen Shot 2023-01-19 at 2 04 47 PM" src="https://user-images.githubusercontent.com/104846791/215395260-91c3f6ca-8f66-45ae-a6c0-bc80a6d9c3f1.png">
 
 <br />
 
