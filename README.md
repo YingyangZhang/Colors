@@ -34,6 +34,14 @@ Via a collapsible sidebar menu, users will have the option to filter random colo
 
 <img width="502" alt="Screen Shot 2023-01-19 at 2 04 30 PM" src="https://user-images.githubusercontent.com/104846791/215395258-24936460-1a2a-43a1-8300-613ca4cf6ff8.png"> <img width="502" alt="Screen Shot 2023-01-19 at 2 04 47 PM" src="https://user-images.githubusercontent.com/104846791/215395260-91c3f6ca-8f66-45ae-a6c0-bc80a6d9c3f1.png">
 
+<br />
+
+Users can also toggle between light & dark color card backgrounds by clicking a button in the upper righthand corner of the application, visible only upon scrolling down to the "Explore" section.
+
+<img width="1512" alt="Screen Shot 2023-01-19 at 2 05 26 PM" src="https://user-images.githubusercontent.com/104846791/215395438-0443d0b5-7781-43a3-9e74-d20c16b12094.png">
+
+
+
 
 
 
