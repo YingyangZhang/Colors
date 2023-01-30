@@ -15,6 +15,9 @@ Colors is a random color-generating application， powered by the xColors API by
 The landing page features a random color and its RGB, HEX & HSL codes. When the home color is clicked, a new random color is generated in its place.
 
 
-
-<img width="1512" alt="Screen Shot 2023-01-19 at 2 03 31 PM" src="https://user-images.githubusercontent.com/104846791/215393402-271ab414-0efe-46c3-acc5-a33014bc89e5.png"> <img width="1512" alt="Screen Shot 2023-01-19 at 2 03 45 PM" src="https://user-images.githubusercontent.com/104846791/215393404-b4a0c90f-6b3c-4186-b1a7-07be99a53ebf.png">
+<p float="left">
+  <img width="1512" alt="Screen Shot 2023-01-19 at 2 03 31 PM" src="https://user-images.githubusercontent.com/104846791/215393402-271ab414-0efe-46c3-acc5-a33014bc89e5.png">
+  <img width="1512" alt="Screen Shot 2023-01-19 at 2 03 45 PM" src="https://user-images.githubusercontent.com/104846791/215393404-b4a0c90f-6b3c-4186-b1a7-07be99a53ebf.png">
+</p>
+ 
 
