@@ -26,4 +26,15 @@ The “Explore” button scrolls users down to a number of random color cards wi
 
 <img width="1512" alt="Screen Shot 2023-01-19 at 2 04 09 PM" src="https://user-images.githubusercontent.com/104846791/215395038-4b61ab75-5a99-49fd-94f6-e4e293ef66fb.png">
 
+<br />
+
+Via a collapsible sidebar menu, users will have the option to filter random color cards by hue.
+
+<br />
+
+<img width="502" alt="Screen Shot 2023-01-19 at 2 04 30 PM" src="https://user-images.githubusercontent.com/104846791/215395258-24936460-1a2a-43a1-8300-613ca4cf6ff8.png"> <img width="502" alt="Screen Shot 2023-01-19 at 2 04 47 PM" src="https://user-images.githubusercontent.com/104846791/215395260-91c3f6ca-8f66-45ae-a6c0-bc80a6d9c3f1.png">
+
+
+
+
 
