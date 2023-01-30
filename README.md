@@ -42,6 +42,8 @@ Users can also toggle between light & dark color card backgrounds by clicking a 
 
 ### Credit
 
+<hr />
+
 Colors web app by Scout Cox and Yingyang Zhang @ Flatiron School, 2022
 
 xColors API by cheatsnake
