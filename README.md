@@ -40,6 +40,8 @@ Users can also toggle between light & dark color card backgrounds by clicking a 
 
 <img width="1512" alt="Screen Shot 2023-01-19 at 2 05 26 PM" src="https://user-images.githubusercontent.com/104846791/215395438-0443d0b5-7781-43a3-9e74-d20c16b12094.png">
 
+<br />
+
 ### Credit
 
 <hr />
