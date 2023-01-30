@@ -44,9 +44,9 @@ Users can also toggle between light & dark color card backgrounds by clicking a 
 
 <hr />
 
-Colors web app by Scout Cox and Yingyang Zhang @ Flatiron School, 2022
++ [Colors](https://github.com/superlunch/color-search) web app by [Scout Cox](https://github.com/superlunch) and [Yingyang Zhang](https://github.com/#) @ Flatiron School, 2022
 
-xColors API by cheatsnake
++ [xColors API](https://x-colors.herokuapp.com) by [cheatsnake](https://github.com/cheatsnake)
 
 
 
